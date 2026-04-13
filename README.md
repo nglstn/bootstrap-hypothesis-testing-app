@@ -75,6 +75,6 @@ After running the bootstrap test, the app provides:
 Users can download:
 
 - 📉 Bootstrap distribution plots  
-- 📦 Bootstrap replications (data)  
+- 📦 Bootstrap replications 
 - 📊 Summary tables and EDA outputs  
 
