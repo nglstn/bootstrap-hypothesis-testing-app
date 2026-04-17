@@ -78,3 +78,8 @@ Users can download:
 - 📦 Bootstrap replications 
 - 📊 Summary tables and EDA outputs  
 
+---
+
+## Live App
+
+Check out the app here: [Open Shiny App](https://statscope.shinyapps.io/bht-shinyapp/)
